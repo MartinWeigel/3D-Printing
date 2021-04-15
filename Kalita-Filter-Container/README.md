@@ -7,9 +7,9 @@ The lid keeps the filters dust-free and a hole in the bottom eases the removal o
 
 Name | Description
 ---- | -----------
-[Kalita-Filter-Container.scad](Kalita-Filter-Container.scad) | [OpenSCAD](http://openscad.org) design file
-[Kalita-Filter-Container-Bottom.stl](Kalita-Filter-Container-Bottom.stl) | STL export of the bottom part
-[Kalita-Filter-Container-Top.stl](Kalita-Filter-Container-Top.stl) | STL export of the top part (lid)
+[Kalita-Filter-Container.scad](Kalita-Filter-Container.scad) | [OpenSCAD](http://openscad.org) design file. Requires [BOSL](https://github.com/revarbat/BOSL).
+[Kalita-Filter-Container-Bottom.stl](Kalita-Filter-Container-Bottom.stl) | STL export of the bottom part.
+[Kalita-Filter-Container-Top.stl](Kalita-Filter-Container-Top.stl) | STL export of the top part (lid).
 
 ## Preview
 
