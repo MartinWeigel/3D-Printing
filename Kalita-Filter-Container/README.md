@@ -1,4 +1,4 @@
-# Kalita Filter Storage
+# Kalita Filter Container
 
 A storage box for [Kalita Wave](http://kalita.ae/products/waveseries/) coffee filters inspired by the star-shaped [ORIGAMI Dripper](https://origami-kai.com/en/collections/dripper).
 The lid keeps the filters dust-free and a hole in the bottom eases the removal of the filters.
